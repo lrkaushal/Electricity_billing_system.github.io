@@ -69,5 +69,5 @@ Contact
 For any questions, issues, or suggestions, please feel free to contact the project maintainer:
 
 Kaushal Rajpoot
-Email: your-kaushalrajpoot@gmail.com
+Email: kaushalrajpoot@gmail.com
 This README provides a basic outline for an Electricity Billing System project implemented in Java with a GUI. You can customize it further based on your specific project requirements.
